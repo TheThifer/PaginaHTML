@@ -1,0 +1,107 @@
+#sigue {
+    
+    font-size: 28px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-weight:bold ;
+    color: rgb(255, 255, 255);
+
+}
+#estilodes {
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+
+
+h1 {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.404);
+    margin: 2px;
+}
+#ubuntu {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.404);
+    margin: 2px;
+}
+#comparativa {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.404);
+    margin: 2px; 
+    text-align: center;  
+}
+#textopasos {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    margin: 5px;
+}
+#textopasos2 {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    margin: 5px;
+}
+.containergrid{
+    display: grid;
+    grid-template-columns: 90% 20% 40%;
+    background-color: rgba(0, 0, 0, 0.397);
+    height: 100px;
+    width: 57%;
+    grid-row: 20px;
+    margin: 20px;
+    text-align: center;
+       
+}
+.containergrid2{
+    display: grid;
+    background-color: rgba(0, 0, 0, 0.397);
+    height: 160px;
+    width: 100%;
+    grid-row: 20px;
+    
+       
+}
+.espacio{
+    background-color: rgba(0, 0, 0, 0);
+}
+.espacio2{
+    background-color: rgba(0, 0, 0, 0);
+    height: 150px;
+    display:grid ;
+    padding: 1px;
+
+}
+.espacio2box{
+    display: grid;
+    height: 90px;
+    background-color: rgba(255, 235, 205, 0);
+}
+
+.containergridbox{
+    height: 300px;
+    background-color: rgba(0, 136, 255, 0)
+}
+.container {
+    display: grid;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0);
+}
+@media (max-width: 1000px) {
+    .container, .containergridbox, .espacio2, .espacio, .espacio2box, .containergrid2, .containergrid  {
+      width: 100%;
+      height: auto;
+    }
+  }
