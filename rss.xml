@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<!--Prólogo-->
+		<title>Software y más</title>
+		<link>https://TheThifer.github.io/PaginaHTML</link>
+		<description>
+			Canal de noticias sobre software libre
+		</description>
+		<category>software/libre/</category>
+		<copyright>1º ASIR - LMSGI</copyright>
+		<image>
+			<url>https://TheThifer.github.io/PaginaHTML/rss.jpg</url>
+			<title>Software y más</title>
+			<link>https://TheThifer.github.io/PaginaHTML</link>
+			<width>30</width>
+			<height>30</height>
+		</image>
+		<language>es-es</language>
+		<lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
+		<webMaster>thethifer@gmail.com</webMaster>
+		
+		<!-- Noticias del canal -->
+		<item>
+			<title>Office</title>
+			<description>En este artículo encontrará información sobre LibreOffice</description>
+			<link>https://TheThifer.github.io/PaginaHTML/pages/office.html</link>
+			<author>thethifer@gmail.com</author>
+			<category>Offimatica</category>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>Antivirus</title>
+			<description>En este artículo encontrará información sobre Avast</description>
+			<link>https://TheThifer.github.io/PaginaHTML/pages/anti.html</link>
+			<author>thethifer@gmail.com</author>
+			<category>Seguridad</category>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+	</channel>
+</rss>
