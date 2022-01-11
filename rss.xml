@@ -1,0 +1,33 @@
+<rss version="2.0">
+<channel>
+
+<title>Viajes y más</title>
+<link>https://github.com/TheThifer</link>
+<description> Canal de noticias sobre nuevos programas </description>
+<category>software/nuevo/libre</category>
+<copyright>1º ASIR - LMSGI</copyright>
+<image>
+<url>https://estherostos.github.io/proyectofhw/viajes.jpg</url>
+<title>Viajes y más</title>
+<link>https://github.com/TheThifer/PaginaHTML</link>
+<width>30</width>
+<height>30</height>
+</image>
+<language>es-es</language>
+<lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
+<webMaster>thethifer@gmail.com</webMaster>
+<item>
+<title>Ofimática</title>
+<description>En este artículo encontrará información sobre ofimatica</description>
+<link>https://TheThifer.github.io/PaginaHTML/pages/office.html</link>
+<author>thethifer@gmail.com</author>
+<category>Office</category>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+<title>Seguridad</title>
+<description>En este artículo encontrará información sobre antivirus</description>
+<link>https://TheThifer.github.io/PaginaHTML/pages/anti.html</link>
+<author>thethifer@gmail.com</author>
+<category>Antivirus</category>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</channel>
+</rss>
