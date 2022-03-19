@@ -60,5 +60,16 @@
 		<summary> En este artículo cutre encontraras información sobre de uso en Hirensboot</summary>
 		<link rel="alternate" href="https://TheThifer.github.io/PaginaHTML/pages/hirens.html"></link>
 	</entry>
+	<entry>
+		<id>https://TheThifer.github.io/PaginaHTML/pages/clonecilla.html</id>
+		<title>HirensBoot</title>
+		<update>2021-02-12T18:30:00+01:00</update>
+		<author>
+			<name>Pablo Jiménez Márquez</name>
+			<email>jimapa_aliesma20@iesmedinaazahara.es</email>
+		</author>
+		<summary> En este artículo cutre encontraras información sobre de uso de Clonezilla</summary>
+		<link rel="alternate" href="https://TheThifer.github.io/PaginaHTML/pages/clonecilla.html"></link>
+	</entry>
 
 </feed>
