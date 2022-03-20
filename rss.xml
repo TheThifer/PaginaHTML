@@ -37,5 +37,22 @@
 			<category>Seguridad</category>
 			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 		</item>
+				<item>
+			<title>HirensBoot</title>
+			<description>En este artículo encontrará información sobre HirensBoot</description>
+			<link>https://TheThifer.github.io/PaginaHTML/pages/hirens.html</link>
+			<author>thethifer@gmail.com</author>
+			<category>Mantenimiento</category>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+				</item>
+				<item>
+			<title>Clonezilla</title>
+			<description>En este artículo encontrará información sobre Clonezilla</description>
+			<link>https://TheThifer.github.io/PaginaHTML/pages/clonecilla.html</link>
+			<author>thethifer@gmail.com</author>
+			<category>Mantenimiento</category>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
 	</channel>
 </rss>
