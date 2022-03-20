@@ -29,6 +29,7 @@
 			<category>Offimatica</category>
 			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 		</item>
+		
 		<item>
 			<title>Antivirus</title>
 			<description>En este artículo encontrará información sobre Avast</description>
@@ -37,7 +38,8 @@
 			<category>Seguridad</category>
 			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 		</item>
-				<item>
+		
+		<item>
 			<title>HirensBoot</title>
 			<description>En este artículo encontrará información sobre HirensBoot</description>
 			<link>https://TheThifer.github.io/PaginaHTML/pages/hirens.html</link>
@@ -45,8 +47,8 @@
 			<category>Mantenimiento</category>
 			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 		</item>
-				</item>
-				<item>
+		
+		<item>
 			<title>Clonezilla</title>
 			<description>En este artículo encontrará información sobre Clonezilla</description>
 			<link>https://TheThifer.github.io/PaginaHTML/pages/clonecilla.html</link>
